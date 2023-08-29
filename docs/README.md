@@ -27,7 +27,7 @@ features:
   - icon: repo
     title: 易藏
     details: 术数，易经。
-    link: https://ruguoaaa.github.io/xirang2/易藏/
+    link: /易藏/
 
   - icon: repo
     title: 史藏
