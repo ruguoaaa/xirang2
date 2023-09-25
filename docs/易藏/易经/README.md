@@ -1,9 +1,10 @@
 ---
-title: 易藏
+title: 易经
 index: false
 icon: folder
+index: 1
 category:
-  - 易藏
+  - 易经
 ---
 
 <AutoCatalog  />
