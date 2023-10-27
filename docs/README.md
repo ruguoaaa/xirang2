@@ -82,12 +82,12 @@ footer: 使用<a href="https://theme-hope.vuejs.press/" target="_blank">VuePress
 
   * [x] 诗藏  100%
   * [x] 医藏  100%
-  * [x] 易藏  10%
-  * [ ] 史藏
+  * [x] 易藏  100%
+  * [x] 史藏  10%
   * [ ] 子藏
   * [ ] 集藏
   * [ ] 艺藏
-  * [x] 佛藏  10%
+  * [x] 佛藏  100%
   * [ ] 儒藏
   * [ ] 道藏
 
