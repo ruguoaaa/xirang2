@@ -2,7 +2,7 @@
 title: 术数
 index: false
 icon: folder
-index: 2
+order: 2
 category:
   - 术数
 ---
